@@ -5,7 +5,7 @@
 </div>
 
 ```python
-class Matthew:
+class MatthewWang:
     school   = "University of Alberta"
     program  = "BSc Computing Science, AI option"
     year     = 1
