@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=4F8EF7&center=true&vCenter=true&width=520&lines=hi%2C+i'm+matthew;first-year+CS+%2B+AI+%40+UAlberta;building+Cohort+with+the+UAIS+team;learning+by+breaking+things" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=4F8EF7&center=true&vCenter=true&width=520&lines=hi%2C+i'm+matthew;first-year+CS+%2B+AI+%40+UAlberta;building+Cohort+with+my+UAIS+team;learning+by+breaking+things" alt="typing intro" />
 
 </div>
 
