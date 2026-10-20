@@ -16,7 +16,7 @@ class MatthewWang:
     offline  = ["skiing (used to be an instructor)", "ecommerce", "basketball"]
 
     def fun_fact(self):
-        return "ran a small online store before getting into CS. it flopped. learned a lot."
+        return "💘 My girlfriend is my most loyal beta tester. She has not chosen this role.."
 ```
 
 ### Skills
