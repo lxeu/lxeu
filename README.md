@@ -13,7 +13,7 @@ class MatthewWang:
 
     building = ["Cohort, an organizational and social tool for students (UAIS team project)"]
     learning = ["full stack web dev", "ML fundamentals", "how to lead a team of 7"]
-    offline  = ["family time, shopping, skiing (used to be an instructor)", "basketball"]
+    offline  = ["family time", "shopping, skiing (used to be an instructor)", "basketball"]
 
     def fun_fact(self):
         return "I ran 3 ecommerce stores before university stole all my time. Plotting a comeback with startups."
